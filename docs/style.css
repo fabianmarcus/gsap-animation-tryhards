@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    font-size: 16px;
+    padding: 4rem 2rem;
+    background-color: #cfcfcf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.animations {
+    margin-top: 3rem;
+}
+
+.home-links {
+    height: 100%;
+    display: flex;
+    font-size: 1.3rem;
+    align-items: center;
+    justify-content: center;
+}
