@@ -1,0 +1,17 @@
+@import url('../style.css');
+
+.a-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    background-color: green;
+}
+
+.a-1 > div {
+    opacity: 0;
+    display: flex;
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    align-content: center;
+}
